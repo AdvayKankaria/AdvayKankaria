@@ -1,5 +1,5 @@
-                                                                                              Hi 👋, I'm Advay Kankaria
-                                                                            Software Developer | Full-Stack Developer | iOS Developer
+Hi 👋, I'm Advay Kankaria
+Software Developer | Full-Stack Developer | iOS Developer
 
 🎯 I'm a passionate developer focused on building scalable web and mobile applications with user-centric design, creating seamless experiences across different platforms.
 
