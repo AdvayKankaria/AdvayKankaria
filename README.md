@@ -32,7 +32,7 @@
 `MySQL` `Firebase`
 
 **Data Science & ML:**  
-`Pandas` `NumPy` `YOLOv5` `CNNs` `AWS ML Services`
+`Pandas` `NumPy` `YOLOv5` `CNNs`
 
 **Tools:**  
 `Figma` `Metasploit` `Wireshark` `SEToolkit` `Kali Linux` `Git`
@@ -58,9 +58,9 @@
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 🌐 [GitHub](https://github.com/yourusername)
-- 📬 [Email](mailto:your-email@example.com)
+- 🔗 [LinkedIn](www.linkedin.com/in/advaykankaria)
+- 🌐 [GitHub](https://github.com/AdvayKankaria)
+- 📬 [Email](mailto:advaykankaria@gmail.com)
 
 ---
 
